@@ -1,5 +1,5 @@
-<h1>Hola 👋, Soy Ericka</h1>
-<h3>Desarrolladora Front End</h3>
+<h1 align="center">Hola 👋, Soy Ericka</h1>
+<h3 align="center">Desarrolladora Front End</h3>
 
 <h4>💫 Sobre mí:</h4>
 Desarrolladora Front End con una profunda pasión por crear interfaces web que sean tanto atractivas como funcionales. Mi enfoque se centra en la usabilidad y la eficiencia, asegurando que cada experiencia del usuario sea intuitiva y satisfactoria. Me esfuerzo por encontrar soluciones prácticas que no solo cumplan con los requisitos técnicos, sino que también se adapten a las necesidades cambiantes de los usuarios.
